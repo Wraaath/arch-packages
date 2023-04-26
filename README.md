@@ -1,5 +1,5 @@
-# Arch Essentials
-A collection of my essential packages on Arch Linux.
+# Arch Packages
+A collection of packages that I use on Arch.
 
 ## Generating a package-list
 Simple as <br />
