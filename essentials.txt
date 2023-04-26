@@ -1,0 +1,9 @@
+all-repository-fonts
+firefox
+htop
+man-db
+nano
+neofetch
+neovim
+tree
+wget
