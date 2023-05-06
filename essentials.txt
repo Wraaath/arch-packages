@@ -1,10 +1,9 @@
-all-repository-fonts
+git
 firefox
 htop
 man-db
 nano
 neofetch
-neovim
 tree
 wget
-usbutils
+vim

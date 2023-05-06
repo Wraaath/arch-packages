@@ -1,0 +1,4 @@
+neovim
+vim-plug
+zsh
+oh-my-zsh-git
