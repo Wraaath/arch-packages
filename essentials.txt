@@ -7,3 +7,4 @@ neofetch
 neovim
 tree
 wget
+usbutils
