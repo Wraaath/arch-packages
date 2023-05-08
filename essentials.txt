@@ -3,6 +3,7 @@ firefox
 htop
 man-db
 nano
+net-tools
 neofetch
 tree
 wget
