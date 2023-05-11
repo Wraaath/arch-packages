@@ -1,5 +1,4 @@
 git
-firefox
 htop
 man-db
 nano
