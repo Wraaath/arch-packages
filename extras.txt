@@ -3,3 +3,4 @@ vim-plug
 zsh
 oh-my-zsh-git
 starship
+tmux
