@@ -8,3 +8,4 @@ neofetch
 tree
 wget
 vim
+ripgrep
