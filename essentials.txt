@@ -9,3 +9,4 @@ tree
 wget
 vim
 ripgrep
+fd-find
