@@ -12,4 +12,4 @@ Just do a <br />
 
 ## Install with apt on Debian based
 Just do a <br />
-`xargs sudo apt-get install <packages.txt`
+`xargs sudo apt install <essentials.txt -y`
