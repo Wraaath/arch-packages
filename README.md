@@ -12,4 +12,4 @@ Just do a <br />
 
 ## Install with apt on Debian based
 Just do a <br />
-`apt install packages.txt`
+`xargs sudo apt-get install <packages.txt`
